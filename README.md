@@ -102,6 +102,11 @@ lock.unlock()
 | Robot Vacuum Cleaner S1 Plus | Short for SwitchBot Robot Vacuum Cleaner S1 Plus Model No. W3011010. Currently only available in Japan. | No |
 | K10+                         | Short for SwitchBot Mini Robot Vacuum K10+ Model No. W3011020 | Yes |
 | K10+ Pro                     | Short for SwitchBot Mini Robot Vacuum K10+ Pro Model No. W3011026 | No |
+| S10                          | Short for SwitchBot Floor Cleaning Robot S10 Model No. W3211800   | No |
+| S20                          | Short for SwitchBot Floor Cleaning Robot S20 Model No. W6602310   | No |
+| K10+ Pro Combo               | Short for SwitchBot Robot Vacuum K10+ Pro Combo Model No. W3002500 | No |
+| K20+ Pro                     | Short for SwitchBot Multitasking Household Robot K20+ Pro Model No. W3002520 | No |
+| K11+                         | Short for Robot Vacuum K11+ Model No. W3003100 | No |
 | Ceiling Light      | Short for SwitchBot Ceiling Light Model No. W2612230 and W2612240. Currently only available in Japan. | No |
 | Ceiling Light Pro | Short for SwitchBot Ceiling Light Pro Model No. W2612210 and W2612220. Currently only available in Japan. | No |
 | Indoor Cam | Short for SwitchBot Indoor Cam Model No. W1301200                  | No |
