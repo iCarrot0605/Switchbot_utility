@@ -46,7 +46,3 @@ class SwitchbotRobotVacuumCleanerS1(SwitchbotDevice, BatteryMixin):
         status = self.get_status()
         return status["onlineStatus"]
 
-    def get_battery(self) -> str:
-        """Returns the current battery level"""
-        status = self.get_status()
-        return status["battery"]

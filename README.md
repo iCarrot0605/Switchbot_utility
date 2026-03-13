@@ -86,7 +86,7 @@ lock.unlock()
 | Meter Plus (US)              | Short for SwitchBot Thermometer and Hygrometer Plus (US) Model No. W2301500 | No |
 | Outdoor Meter                | Short for Indoor/Outdoor Thermo-Hygrometer Model No. W3400010 | Yes |
 | Meter Pro                    | Short for SwitchBot Meter Pro Model No. W4900000              | No |
-| Peter Pro (CO2 Monitor)      | Short for SwitchBot Meter Pro (CO2 Monitor) Model No. W4900010 | Yes |
+| Meter Pro (CO2 Monitor)      | Short for SwitchBot Meter Pro (CO2 Monitor) Model No. W4900010 | Yes |
 | Motion Sensor                | Short for SwitchBot Motion Sensor Model No. W1101500         | No |
 | Contact Sensor               | Short for SwitchBot Contact Sensor Model No. W1201500        | Yes |
 | Water Leak Detector          | Short for SwitchBot Water Leak Detector Model No. W4402000    | Yes |
@@ -100,6 +100,8 @@ lock.unlock()
 | Keypad Touch                         | Short for SwitchBot Lock Model No. W2500020                  | Yes |
 | Robot Vacuum Cleaner S1      | Short for SwitchBot Robot Vacuum Cleaner S1 Model No. W3011000. Currently only available in Japan. | No |
 | Robot Vacuum Cleaner S1 Plus | Short for SwitchBot Robot Vacuum Cleaner S1 Plus Model No. W3011010. Currently only available in Japan. | No |
+| K10+                         | Short for SwitchBot Mini Robot Vacuum K10+ Model No. W3011020 | Yes |
+| K10+ Pro                     | Short for SwitchBot Mini Robot Vacuum K10+ Pro Model No. W3011026 | No |
 | Ceiling Light      | Short for SwitchBot Ceiling Light Model No. W2612230 and W2612240. Currently only available in Japan. | No |
 | Ceiling Light Pro | Short for SwitchBot Ceiling Light Pro Model No. W2612210 and W2612220. Currently only available in Japan. | No |
 | Indoor Cam | Short for SwitchBot Indoor Cam Model No. W1301200                  | No |
