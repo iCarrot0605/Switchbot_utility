@@ -51,6 +51,7 @@ class Switchbot:
         sign = base64.b64encode(hmacstr)
 
         header = {}
+        header["Content-Type"] = "application/json; charset=utf8"
         header["Authorization"] = token
         header["sign"] = str(sign, "utf-8")
         header["t"] = str(t)
