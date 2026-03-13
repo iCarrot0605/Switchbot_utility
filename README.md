@@ -86,9 +86,11 @@ lock.unlock()
 | Meter Plus (US)              | Short for SwitchBot Thermometer and Hygrometer Plus (US) Model No. W2301500 | No |
 | Motion Sensor                | Short for SwitchBot Motion Sensor Model No. W1101500         | No |
 | Contact Sensor               | Short for SwitchBot Contact Sensor Model No. W1201500        | Yes |
+| Water Leak Detector          | Short for SwitchBot Water Leak Detector Model No. W4402000    | Yes |
 | Color Bulb                   | Short for SwitchBot Color Bulb Model No. W1401400            | Yes |
 | Strip Light                  | Short for SwitchBot LED Strip Light Model No. W1701100       | No |
 | Plug Mini (US)               | Short for SwitchBot Plug Mini (US) Model No. W1901400 and W1901401 | No |
+| Plug Mini (EU)               | Short for SwitchBot Plug Mini (EU) Model No. W7732300 | No |
 | Plug Mini (JP)               | Short for SwitchBot Plug Mini (JP) Model No. W2001400 and W2001401 | Yes |
 | Lock                         | Short for SwitchBot Lock Model No. W1601700                  | Yes |
 | Keypad                         | Short for SwitchBot Lock Model No. W2500010                  | No |
