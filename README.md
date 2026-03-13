@@ -84,6 +84,9 @@ lock.unlock()
 | Meter                        | Short for SwitchBot Thermometer and Hygrometer Model No. SwitchBot MeterTH S1 | Yes |
 | Meter Plus (JP)              | Short for SwitchBot Thermometer and Hygrometer Plus (JP) Model No. W2201500 | Yes |
 | Meter Plus (US)              | Short for SwitchBot Thermometer and Hygrometer Plus (US) Model No. W2301500 | No |
+| Outdoor Meter                | Short for Indoor/Outdoor Thermo-Hygrometer Model No. W3400010 | Yes |
+| Meter Pro                    | Short for SwitchBot Meter Pro Model No. W4900000              | No |
+| Peter Pro (CO2 Monitor)      | Short for SwitchBot Meter Pro (CO2 Monitor) Model No. W4900010 | Yes |
 | Motion Sensor                | Short for SwitchBot Motion Sensor Model No. W1101500         | No |
 | Contact Sensor               | Short for SwitchBot Contact Sensor Model No. W1201500        | Yes |
 | Water Leak Detector          | Short for SwitchBot Water Leak Detector Model No. W4402000    | Yes |
