@@ -69,7 +69,7 @@ instance/
 .scrapy
 
 # Sphinx documentation
-docs/_build/
+#docs/_build/
 
 # PyBuilder
 target/
@@ -135,4 +135,3 @@ keypad_*_keyList.txt
 sceneList.txt
 
 src/switchbot_utility/_version.py
-docs/

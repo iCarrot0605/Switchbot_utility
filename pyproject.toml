@@ -9,7 +9,12 @@ authors = [
 ]
 description = "Python Switchbot utilities"
 readme = "README.md"
-dependencies = ["requests"]
+dependencies = [
+    "requests",
+    "sphinx>=5.3.0",
+    "sphinx-multiversion>=0.2.4",
+    "sphinx-rtd-theme>=2.0.0",
+]
 requires-python = ">=3.6"
 keywords = [
     "Switchbot",
