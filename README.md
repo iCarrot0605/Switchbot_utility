@@ -113,3 +113,5 @@ lock.unlock()
 | Pan/Tilt Cam | Short for SwitchBot Pan/Tilt Cam Model No. W1801200                  | No |
 | Pan/Tilt Cam 2K | Short for SwitchBot Pan/Tilt Cam 2K Model No. W3101100                  | No |
 | Blind Tilt | Short for SwitchBot Blind Tilt Model No. W2701600 | No |
+| Evaporative Humidifier 	   | Short for SwitchBot Evaporative Humidifier Model No.W3902300 | Yes |
+| Evaporative Humidifier (Auto-refill) | Short for SwitchBot Evaporative Humidifier (Auto-refill) Model No. W3902310 | No |
