@@ -103,9 +103,7 @@ class SwitchbotFloorCleaningRobotS10(SwitchbotDevice, BatteryMixin):
             str: Result of the command
         """
         self._body["command"] = "setVolume"
-        parameter = {}
-        parameter["volume"] = volume
-        self._body["parameter"] = parameter
+        self._body
         result = self.command(self.deviceId, self._body)
         return result.text
 
@@ -121,9 +119,7 @@ class SwitchbotFloorCleaningRobotS10(SwitchbotDevice, BatteryMixin):
             str: Result of the command
         """
         self._body["command"] = "selfClean"
-        parameter = {}
-        parameter["mode"] = mode
-        self._body["parameter"] = parameter
+        self._body["parameter"] = mode
         result = self.command(self.deviceId, self._body)
         return result.text
 
