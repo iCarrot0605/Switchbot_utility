@@ -39,6 +39,11 @@ class SwitchbotEvapolativeHumidifier(SwitchbotDevice, OnOffMixin):
         status = self.get_status()
         return status["childLock"]
 
+    def get_effectiveUsageHours(self) -> int:
+        """Get effective usage hours."""
+        status = self.get_status()
+        return status["filterElement"]["effectiveUsageHours"]
+
     def get_usedHours(self) -> int:
         """Get used hours."""
         status = self.get_status()
