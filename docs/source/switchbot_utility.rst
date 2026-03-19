@@ -260,6 +260,14 @@ switchbot\_utility.switchbot\_lock module
    :show-inheritance:
    :undoc-members:
 
+switchbot\_utility.switchbot\_lock\_lite module
+-----------------------------------------------
+
+.. automodule:: switchbot_utility.switchbot_lock_lite
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
 switchbot\_utility.switchbot\_meter module
 ------------------------------------------
 
