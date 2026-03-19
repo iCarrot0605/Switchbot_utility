@@ -356,6 +356,38 @@ switchbot\_utility.switchbot\_plug\_mini\_us module
    :show-inheritance:
    :undoc-members:
 
+switchbot\_utility.switchbot\_rgbic\_neon\_wire\_light module
+-------------------------------------------------------------
+
+.. automodule:: switchbot_utility.switchbot_rgbic_neon_wire_light
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+switchbot\_utility.switchbot\_rgbic\_neon\_wire\_rope\_light module
+-------------------------------------------------------------------
+
+.. automodule:: switchbot_utility.switchbot_rgbic_neon_wire_rope_light
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+switchbot\_utility.switchbot\_rgbicww\_floor\_lamp module
+---------------------------------------------------------
+
+.. automodule:: switchbot_utility.switchbot_rgbicww_floor_lamp
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+switchbot\_utility.switchbot\_rgbicww\_strip\_light module
+----------------------------------------------------------
+
+.. automodule:: switchbot_utility.switchbot_rgbicww_strip_light
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
 switchbot\_utility.switchbot\_robot\_vacuum\_cleaner\_s1 module
 ---------------------------------------------------------------
 

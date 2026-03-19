@@ -96,6 +96,7 @@ lock.unlock()
 | Plug Mini (EU)               | Short for SwitchBot Plug Mini (EU) Model No. W7732300 | No |
 | Plug Mini (JP)               | Short for SwitchBot Plug Mini (JP) Model No. W2001400 and W2001401 | Yes |
 | Lock                         | Short for SwitchBot Lock Model No. W1601700                  | Yes |
+| Lock Lite                    | Short for SwitchBot Lock Lite Model No. W5110000             | No |
 | Keypad                         | Short for SwitchBot Lock Model No. W2500010                  | No |
 | Keypad Touch                         | Short for SwitchBot Lock Model No. W2500020                  | Yes |
 | Robot Vacuum Cleaner S1      | Short for SwitchBot Robot Vacuum Cleaner S1 Model No. W3011000. Currently only available in Japan. | No |
