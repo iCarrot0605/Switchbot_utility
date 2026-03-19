@@ -109,6 +109,10 @@ lock.unlock()
 | K11+                         | Short for Robot Vacuum K11+ Model No. W3003100 | No |
 | Ceiling Light      | Short for SwitchBot Ceiling Light Model No. W2612230 and W2612240. Currently only available in Japan. | No |
 | Ceiling Light Pro | Short for SwitchBot Ceiling Light Pro Model No. W2612210 and W2612220. Currently only available in Japan. | No |
+| RGBICWW Strip Light | Short for SwitchBot RGBICWW Strip Light Model No. W1702109 | No |
+| RGBICWW Floor Lamp | Short for SwitchBot RGBICWW Floor Lamp Model No. W1702101 | No |
+| RGBIC Neon Rope Light | Short for SwitchBot RGBIC Neon Rope Light No. W1702107 | No |
+| RGBIC Neon Wire Rope Light | Short for SwitchBot RGBIC Neon Wire Rope Light Model No. W1702108 | No |
 | Indoor Cam | Short for SwitchBot Indoor Cam Model No. W1301200                  | No |
 | Pan/Tilt Cam | Short for SwitchBot Pan/Tilt Cam Model No. W1801200                  | No |
 | Pan/Tilt Cam 2K | Short for SwitchBot Pan/Tilt Cam 2K Model No. W3101100                  | No |
