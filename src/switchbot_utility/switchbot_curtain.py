@@ -28,3 +28,34 @@ class SwitchbotCurtain(SwitchbotDevice, OnOffMixin, BatteryMixin):
         """Returns curtain position 0(open) to 100(close)"""
         status = self.get_status()
         return status["slidePosition"]
+
+    def get_calibrate(self) -> bool:
+        """determines if the open position and the close position of
+        a device have been properly calibrated or not
+
+        Returns:
+            bool: True if the device has been calibrated, False otherwise
+        """
+        status = self.get_status()
+        return status["calibrate"]
+
+    def get_group(self) -> bool:
+        """determines if a Curtain is paired with or grouped
+        with another Curtain or not
+
+        Returns:
+            bool: True if the device is part of a group, False otherwise
+        """
+        status = self.get_status()
+        return status["group"]
+
+    def get_master(self) -> bool:
+        """determines if a Curtain is the master device or not when
+        paired with or grouped with another Curtain
+
+        Returns:
+            bool: True if the device is the master device in a group, False otherwise
+        """
+        status = self.get_status()
+        return status["master"]
+
