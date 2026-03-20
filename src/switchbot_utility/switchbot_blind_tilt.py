@@ -12,6 +12,7 @@ class SwitchbotBlindTilt(SwitchbotDevice, OnOffMixin):
             direction (str): up/down
             position (int): 0~100 (0 means closed,
             100 means open, it MUST be set to a multiple of 2.
+            for example, up;48 or up; 36)
 
         Returns:
             str: result
