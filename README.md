@@ -91,7 +91,8 @@ lock.unlock()
 | Meter Pro (CO2 Monitor)      | Short for SwitchBot Meter Pro (CO2 Monitor) Model No. W4900010 | Yes |
 | Motion Sensor                | Short for SwitchBot Motion Sensor Model No. W1101500         | No |
 | Contact Sensor               | Short for SwitchBot Contact Sensor Model No. W1201500        | Yes |
-| Water Leak Detector          | Short for SwitchBot Water Leak Detector Model No. W4402000    | Yes |
+| Presence Sensor              | Short for SwitchBot Presence Sensor Model No. W8200000       | No |
+| Water Leak Detector          | Short for SwitchBot Water Leak Detector Model No. W4402000   | Yes |
 | Color Bulb                   | Short for SwitchBot Color Bulb Model No. W1401400            | Yes |
 | Strip Light                  | Short for SwitchBot LED Strip Light Model No. W1701100       | No |
 | Plug Mini (US)               | Short for SwitchBot Plug Mini (US) Model No. W1901400 and W1901401 | No |

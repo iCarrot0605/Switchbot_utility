@@ -388,6 +388,14 @@ switchbot\_utility.switchbot\_plug\_mini\_us module
    :show-inheritance:
    :undoc-members:
 
+switchbot\_utility.switchbot\_presence\_sensor module
+-----------------------------------------------------
+
+.. automodule:: switchbot_utility.switchbot_presence_sensor
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
 switchbot\_utility.switchbot\_rgbic\_neon\_wire\_light module
 -------------------------------------------------------------
 
