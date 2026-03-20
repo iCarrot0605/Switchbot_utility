@@ -268,6 +268,22 @@ switchbot\_utility.switchbot\_lock\_lite module
    :show-inheritance:
    :undoc-members:
 
+switchbot\_utility.switchbot\_lock\_pro module
+----------------------------------------------
+
+.. automodule:: switchbot_utility.switchbot_lock_pro
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+switchbot\_utility.switchbot\_lock\_ultra module
+------------------------------------------------
+
+.. automodule:: switchbot_utility.switchbot_lock_ultra
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
 switchbot\_utility.switchbot\_meter module
 ------------------------------------------
 

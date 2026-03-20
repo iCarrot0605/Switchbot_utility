@@ -7,3 +7,6 @@ class SwitchbotLockLite(SwitchbotLock):
     def get_door_state(self) -> str:
         """Do Nothing, because Switchbot Lock Lite does not have a door sensor"""
         return "unknown"
+
+    def deadbolt(self):
+        """Do Nothing, because Switchbot Lock Lite does not have a deadbolt or latch"""

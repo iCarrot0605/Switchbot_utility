@@ -31,6 +31,8 @@ from switchbot_utility.switchbot_keypad import SwitchbotKeypad
 from switchbot_utility.switchbot_keypad_touch import SwitchbotKeypadTouch
 from switchbot_utility.switchbot_lock import SwitchbotLock
 from switchbot_utility.switchbot_lock_lite import SwitchbotLockLite
+from switchbot_utility.switchbot_lock_pro import SwitchbotLockPro
+from switchbot_utility.switchbot_lock_ultra import SwitchbotLockUltra
 from switchbot_utility.switchbot_motion_sensor import SwitchbotMotionSensor
 from switchbot_utility.switchbot_plug import SwitchbotPlug
 from switchbot_utility.switchbot_plug_mini_jp import SwitchbotPlugMiniJP
