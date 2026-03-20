@@ -148,6 +148,14 @@ switchbot\_utility.switchbot\_hub2 module
    :show-inheritance:
    :undoc-members:
 
+switchbot\_utility.switchbot\_hub3 module
+-----------------------------------------
+
+.. automodule:: switchbot_utility.switchbot_hub3
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
 switchbot\_utility.switchbot\_humidifier module
 -----------------------------------------------
 

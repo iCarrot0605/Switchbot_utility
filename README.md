@@ -78,6 +78,7 @@ lock.unlock()
 | Hub Mini                     | Short for SwitchBot Hub Mini Model No. W0202200              | Yes |
 | Hub Plus                     | Short for SwitchBot Hub Plus Model No. SwitchBot Hub S1      | No |
 | Hub 2                     | Short for SwitchBot Hub 2 Model No. W3202100      | Yes |
+| Hub 3                     | Short for SwitchBot Hub 3 Model No. W7202100      | No |
 | Bot                          | Short for SwitchBot Bot Model No. SwitchBot S1               | Yes |
 | Curtain                      | Short for SwitchBot Curtain Model No. W0701600               | Yes |
 | Plug                         | Short for SwitchBot Plug Model No. SP11. Currently only available in Japan | Yes |
