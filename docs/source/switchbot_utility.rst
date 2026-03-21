@@ -36,6 +36,38 @@ switchbot\_utility.switchbot module
    :show-inheritance:
    :undoc-members:
 
+switchbot\_utility.switchbot\_air\_purifier\_pm25 module
+--------------------------------------------------------
+
+.. automodule:: switchbot_utility.switchbot_air_purifier_pm25
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+switchbot\_utility.switchbot\_air\_purifier\_pm25\_table module
+---------------------------------------------------------------
+
+.. automodule:: switchbot_utility.switchbot_air_purifier_pm25_table
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+switchbot\_utility.switchbot\_air\_purifier\_voc module
+-------------------------------------------------------
+
+.. automodule:: switchbot_utility.switchbot_air_purifier_voc
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+switchbot\_utility.switchbot\_air\_purifier\_voc\_table module
+--------------------------------------------------------------
+
+.. automodule:: switchbot_utility.switchbot_air_purifier_voc_table
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
 switchbot\_utility.switchbot\_blind\_tilt module
 ------------------------------------------------
 
