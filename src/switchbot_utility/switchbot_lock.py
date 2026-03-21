@@ -25,6 +25,16 @@ class SwitchbotLock(SwitchbotDevice, BatteryMixin):
         result = self.command(self.deviceId, body)
         return result.text
 
+    def deadbolt(self) -> str:
+        """Disengage deadbolt or latch"""
+        body = {
+            "commandType": "command",
+            "parameter": "default",
+            "command": "deadbolt",
+        }
+        result = self.command(self.deviceId, body)
+        return result.text
+
     def get_lock_state(self) -> str:
         """Returns if locked or not"""
         status = self.get_status()

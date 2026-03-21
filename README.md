@@ -1,8 +1,9 @@
 [![PyPI -
-Downloads](https://img.shields.io/pypi/dm/switchbot-utility?style=plastic)](https://pypi.org/project/switchbot-utility/)
-[![PyPI](https://img.shields.io/pypi/v/switchbot-utility?style=plastic)](https://pypi.org/project/switchbot-utility/)
+Downloads](https://img.shields.io/pypi/dm/switchbot-utility)](https://pypi.org/project/switchbot-utility/)
+[![PyPI - Version](https://img.shields.io/pypi/v/switchbot-utility)](https://pypi.org/project/switchbot-utility/)
 [![PyPI -
-License](https://img.shields.io/pypi/l/switchbot-utility?style=plastic)](https://pypi.org/project/switchbot-utility/)
+License](https://img.shields.io/pypi/l/switchbot-utility)](https://pypi.org/project/switchbot-utility/)
+
 
 # Switchbot_utility
 
@@ -78,6 +79,7 @@ lock.unlock()
 | Hub Mini                     | Short for SwitchBot Hub Mini Model No. W0202200              | Yes |
 | Hub Plus                     | Short for SwitchBot Hub Plus Model No. SwitchBot Hub S1      | No |
 | Hub 2                     | Short for SwitchBot Hub 2 Model No. W3202100      | Yes |
+| Hub 3                     | Short for SwitchBot Hub 3 Model No. W7202100      | No |
 | Bot                          | Short for SwitchBot Bot Model No. SwitchBot S1               | Yes |
 | Curtain                      | Short for SwitchBot Curtain Model No. W0701600               | Yes |
 | Plug                         | Short for SwitchBot Plug Model No. SP11. Currently only available in Japan | Yes |
@@ -89,14 +91,17 @@ lock.unlock()
 | Meter Pro (CO2 Monitor)      | Short for SwitchBot Meter Pro (CO2 Monitor) Model No. W4900010 | Yes |
 | Motion Sensor                | Short for SwitchBot Motion Sensor Model No. W1101500         | No |
 | Contact Sensor               | Short for SwitchBot Contact Sensor Model No. W1201500        | Yes |
-| Water Leak Detector          | Short for SwitchBot Water Leak Detector Model No. W4402000    | Yes |
+| Presence Sensor              | Short for SwitchBot Presence Sensor Model No. W8200000       | No |
+| Water Leak Detector          | Short for SwitchBot Water Leak Detector Model No. W4402000   | Yes |
 | Color Bulb                   | Short for SwitchBot Color Bulb Model No. W1401400            | Yes |
 | Strip Light                  | Short for SwitchBot LED Strip Light Model No. W1701100       | No |
 | Plug Mini (US)               | Short for SwitchBot Plug Mini (US) Model No. W1901400 and W1901401 | No |
 | Plug Mini (EU)               | Short for SwitchBot Plug Mini (EU) Model No. W7732300 | No |
 | Plug Mini (JP)               | Short for SwitchBot Plug Mini (JP) Model No. W2001400 and W2001401 | Yes |
 | Lock                         | Short for SwitchBot Lock Model No. W1601700                  | Yes |
+| Lock Pro | Short for SwitchBot Lock Pro Model No. W3500000 | No |
 | Lock Lite                    | Short for SwitchBot Lock Lite Model No. W5110000             | No |
+| Lock Ultra | Short for SwitchBot Lock Ultra Model No. W5600000 | No |
 | Keypad                         | Short for SwitchBot Lock Model No. W2500010                  | No |
 | Keypad Touch                         | Short for SwitchBot Lock Model No. W2500020                  | Yes |
 | Robot Vacuum Cleaner S1      | Short for SwitchBot Robot Vacuum Cleaner S1 Model No. W3011000. Currently only available in Japan. | No |

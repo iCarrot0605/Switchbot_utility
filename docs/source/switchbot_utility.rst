@@ -180,6 +180,14 @@ switchbot\_utility.switchbot\_hub2 module
    :show-inheritance:
    :undoc-members:
 
+switchbot\_utility.switchbot\_hub3 module
+-----------------------------------------
+
+.. automodule:: switchbot_utility.switchbot_hub3
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
 switchbot\_utility.switchbot\_humidifier module
 -----------------------------------------------
 
@@ -300,6 +308,22 @@ switchbot\_utility.switchbot\_lock\_lite module
    :show-inheritance:
    :undoc-members:
 
+switchbot\_utility.switchbot\_lock\_pro module
+----------------------------------------------
+
+.. automodule:: switchbot_utility.switchbot_lock_pro
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+switchbot\_utility.switchbot\_lock\_ultra module
+------------------------------------------------
+
+.. automodule:: switchbot_utility.switchbot_lock_ultra
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
 switchbot\_utility.switchbot\_meter module
 ------------------------------------------
 
@@ -392,6 +416,14 @@ switchbot\_utility.switchbot\_plug\_mini\_us module
 ---------------------------------------------------
 
 .. automodule:: switchbot_utility.switchbot_plug_mini_us
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+switchbot\_utility.switchbot\_presence\_sensor module
+-----------------------------------------------------
+
+.. automodule:: switchbot_utility.switchbot_presence_sensor
    :members:
    :show-inheritance:
    :undoc-members:
