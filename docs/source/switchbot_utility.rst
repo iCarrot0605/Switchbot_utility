@@ -172,6 +172,14 @@ switchbot\_utility.switchbot\_floor\_cleaning\_robot\_s20 module
    :show-inheritance:
    :undoc-members:
 
+switchbot\_utility.switchbot\_floor\_lamp module
+------------------------------------------------
+
+.. automodule:: switchbot_utility.switchbot_floor_lamp
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
 switchbot\_utility.switchbot\_hub2 module
 -----------------------------------------
 
@@ -480,6 +488,14 @@ switchbot\_utility.switchbot\_strip\_light module
 -------------------------------------------------
 
 .. automodule:: switchbot_utility.switchbot_strip_light
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+switchbot\_utility.switchbot\_strip\_light3 module
+--------------------------------------------------
+
+.. automodule:: switchbot_utility.switchbot_strip_light3
    :members:
    :show-inheritance:
    :undoc-members:
