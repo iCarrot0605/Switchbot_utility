@@ -300,6 +300,22 @@ switchbot\_utility.switchbot\_keypad\_touch module
    :show-inheritance:
    :undoc-members:
 
+switchbot\_utility.switchbot\_keypad\_vision module
+---------------------------------------------------
+
+.. automodule:: switchbot_utility.switchbot_keypad_vision
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
+switchbot\_utility.switchbot\_keypad\_vision\_pro module
+--------------------------------------------------------
+
+.. automodule:: switchbot_utility.switchbot_keypad_vision_pro
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
 switchbot\_utility.switchbot\_lock module
 -----------------------------------------
 

@@ -104,6 +104,8 @@ lock.unlock()
 | Lock Ultra | Short for SwitchBot Lock Ultra Model No. W5600000 | No |
 | Keypad                         | Short for SwitchBot Lock Model No. W2500010                  | No |
 | Keypad Touch                         | Short for SwitchBot Lock Model No. W2500020                  | Yes |
+| Keypad Vision                | Short for SwitchBot Keypad Vision Model No. W5600003 | No |
+| Keypad Vision Pro            | Short for SwitchBot Keypad Vision Pro Model No. W5600009 | No |
 | Robot Vacuum Cleaner S1      | Short for SwitchBot Robot Vacuum Cleaner S1 Model No. W3011000. Currently only available in Japan. | No |
 | Robot Vacuum Cleaner S1 Plus | Short for SwitchBot Robot Vacuum Cleaner S1 Plus Model No. W3011010. Currently only available in Japan. | No |
 | K10+                         | Short for SwitchBot Mini Robot Vacuum K10+ Model No. W3011020 | Yes |

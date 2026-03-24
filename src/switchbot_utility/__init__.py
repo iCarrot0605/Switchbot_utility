@@ -32,6 +32,8 @@ from switchbot_utility.switchbot_ir_others import IrOthers
 from switchbot_utility.switchbot_ir_tv_ipstreamer_stb import IrTv, IrStreamer, IrSetTopBox
 from switchbot_utility.switchbot_keypad import SwitchbotKeypad
 from switchbot_utility.switchbot_keypad_touch import SwitchbotKeypadTouch
+from switchbot_utility.switchbot_keypad_vision import SwitchbotKeypadVision
+from switchbot_utility.switchbot_keypad_vision_pro import SwitchbotKeypadVisionPro
 from switchbot_utility.switchbot_lock import SwitchbotLock
 from switchbot_utility.switchbot_lock_lite import SwitchbotLockLite
 from switchbot_utility.switchbot_lock_pro import SwitchbotLockPro
