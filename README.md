@@ -127,6 +127,7 @@ lock.unlock()
 | Pan/Tilt Cam | Short for SwitchBot Pan/Tilt Cam Model No. W1801200                  | No |
 | Pan/Tilt Cam 2K | Short for SwitchBot Pan/Tilt Cam 2K Model No. W3101100                  | No |
 | Blind Tilt | Short for SwitchBot Blind Tilt Model No. W2701600 | No |
+| Roller Shade | Short for SwitchBot Roller Shade Model No. W5000000 | No |
 | Air Purifier PM2.5 | Short for SwitchBot Air Purifier Model No. W5302300 | No |
 | Air Purifier Table PM2.5 | Short for SwitchBot Air Purifier Table Model No. W5302310 | No |
 | Air Purifier VOC | Short for SwitchBot Air Purifier Model No. W5302300 | No |

@@ -1,6 +1,7 @@
 from switchbot_utility.switchbot import Switchbot
 from switchbot_utility.switchbot_bot import SwitchbotBot
 from switchbot_utility.switchbot_blind_tilt import SwitchbotBlindTilt
+from switchbot_utility.switchbot_roller_shade import SwitchbotRollerShade
 from switchbot_utility.switchbot_meter import SwitchbotMeter
 from switchbot_utility.switchbot_meter_plus import SwitchbotMeterPlus
 from switchbot_utility.switchbot_meter_pro import SwitchbotMeterPro

@@ -500,6 +500,14 @@ switchbot\_utility.switchbot\_robot\_vacuum\_cleaner\_s1\_plus module
    :show-inheritance:
    :undoc-members:
 
+switchbot\_utility.switchbot\_roller\_shade module
+--------------------------------------------------
+
+.. automodule:: switchbot_utility.switchbot_roller_shade
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
 switchbot\_utility.switchbot\_strip\_light module
 -------------------------------------------------
 
