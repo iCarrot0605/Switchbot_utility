@@ -100,6 +100,14 @@ switchbot\_utility.switchbot\_ceiling\_light\_pro module
    :show-inheritance:
    :undoc-members:
 
+switchbot\_utility.switchbot\_circulator\_fan module
+----------------------------------------------------
+
+.. automodule:: switchbot_utility.switchbot_circulator_fan
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
 switchbot\_utility.switchbot\_color\_bulb module
 ------------------------------------------------
 
