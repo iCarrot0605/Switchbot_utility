@@ -104,6 +104,8 @@ lock.unlock()
 | Lock Ultra | Short for SwitchBot Lock Ultra Model No. W5600000 | No |
 | Keypad                         | Short for SwitchBot Lock Model No. W2500010                  | No |
 | Keypad Touch                         | Short for SwitchBot Lock Model No. W2500020                  | Yes |
+| Keypad Vision                | Short for SwitchBot Keypad Vision Model No. W5600003 | No |
+| Keypad Vision Pro            | Short for SwitchBot Keypad Vision Pro Model No. W5600009 | No |
 | Robot Vacuum Cleaner S1      | Short for SwitchBot Robot Vacuum Cleaner S1 Model No. W3011000. Currently only available in Japan. | No |
 | Robot Vacuum Cleaner S1 Plus | Short for SwitchBot Robot Vacuum Cleaner S1 Plus Model No. W3011010. Currently only available in Japan. | No |
 | K10+                         | Short for SwitchBot Mini Robot Vacuum K10+ Model No. W3011020 | Yes |
@@ -119,13 +121,17 @@ lock.unlock()
 | RGBICWW Floor Lamp | Short for SwitchBot RGBICWW Floor Lamp Model No. W1702101 | No |
 | RGBIC Neon Rope Light | Short for SwitchBot RGBIC Neon Rope Light No. W1702107 | No |
 | RGBIC Neon Wire Rope Light | Short for SwitchBot RGBIC Neon Wire Rope Light Model No. W1702108 | No |
+| Floor Lamp | Short for SwitchBot RGBWW Floor Lamp Model No. W1702100 | No |
+| Strip Light 3 | Short for SwitchBot RGBWW Strip Light 3 Model No. W1702110 | No |
 | Indoor Cam | Short for SwitchBot Indoor Cam Model No. W1301200                  | No |
 | Pan/Tilt Cam | Short for SwitchBot Pan/Tilt Cam Model No. W1801200                  | No |
 | Pan/Tilt Cam 2K | Short for SwitchBot Pan/Tilt Cam 2K Model No. W3101100                  | No |
 | Blind Tilt | Short for SwitchBot Blind Tilt Model No. W2701600 | No |
+| Roller Shade | Short for SwitchBot Roller Shade Model No. W5000000 | No |
 | Air Purifier PM2.5 | Short for SwitchBot Air Purifier Model No. W5302300 | No |
 | Air Purifier Table PM2.5 | Short for SwitchBot Air Purifier Table Model No. W5302310 | No |
 | Air Purifier VOC | Short for SwitchBot Air Purifier Model No. W5302300 | No |
 | Air Purifier Table VOC | Short for SwitchBot Air Purifier Table Model No. W5302310 | No |
+| Circulator Fan | Short for SwitchBot Circulator Fan Model No. W3800511 | No |
 | Evaporative Humidifier 	   | Short for SwitchBot Evaporative Humidifier Model No.W3902300 | Yes |
 | Evaporative Humidifier (Auto-refill) | Short for SwitchBot Evaporative Humidifier (Auto-refill) Model No. W3902310 | No |
