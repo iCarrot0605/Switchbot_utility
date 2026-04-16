@@ -68,6 +68,14 @@ switchbot\_utility.switchbot\_air\_purifier\_voc\_table module
    :show-inheritance:
    :undoc-members:
 
+switchbot\_utility.switchbot\_battery\_circulator\_fan module
+-------------------------------------------------------------
+
+.. automodule:: switchbot_utility.switchbot_battery_circulator_fan
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
 switchbot\_utility.switchbot\_blind\_tilt module
 ------------------------------------------------
 
