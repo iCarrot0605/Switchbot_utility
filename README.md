@@ -132,6 +132,7 @@ lock.unlock()
 | Air Purifier Table PM2.5 | Short for SwitchBot Air Purifier Table Model No. W5302310 | No |
 | Air Purifier VOC | Short for SwitchBot Air Purifier Model No. W5302300 | No |
 | Air Purifier Table VOC | Short for SwitchBot Air Purifier Table Model No. W5302310 | No |
+| Battery Circulator Fan | Short for SwitchBot Battery Circulator Fan Model No. W3800510 | No |
 | Circulator Fan | Short for SwitchBot Circulator Fan Model No. W3800511 | No |
 | Evaporative Humidifier 	   | Short for SwitchBot Evaporative Humidifier Model No.W3902300 | Yes |
 | Evaporative Humidifier (Auto-refill) | Short for SwitchBot Evaporative Humidifier (Auto-refill) Model No. W3902310 | No |
