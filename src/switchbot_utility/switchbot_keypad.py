@@ -5,6 +5,7 @@ from datetime import datetime as dt
 import requests
 from requests.exceptions import Timeout
 
+from switchbot_utility.battery_mixin import BatteryMixin
 from switchbot_utility.switchbot_device import SwitchbotDevice
 
 
