@@ -524,6 +524,14 @@ switchbot\_utility.switchbot\_roller\_shade module
    :show-inheritance:
    :undoc-members:
 
+switchbot\_utility.switchbot\_smart\_lock\_pro\_wifi module
+-----------------------------------------------------------
+
+.. automodule:: switchbot_utility.switchbot_smart_lock_pro_wifi
+   :members:
+   :show-inheritance:
+   :undoc-members:
+
 switchbot\_utility.switchbot\_strip\_light module
 -------------------------------------------------
 
