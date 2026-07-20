@@ -102,6 +102,7 @@ lock.unlock()
 | Lock Pro | Short for SwitchBot Lock Pro Model No. W3500000 | No |
 | Lock Lite                    | Short for SwitchBot Lock Lite Model No. W5110000             | No |
 | Lock Ultra | Short for SwitchBot Lock Ultra Model No. W5600000 | No |
+| Lock Pro Matter Enabled |Short for SwitchBot Lock Pro Matter Enabled Model No. W8102000     | No |
 | Keypad                         | Short for SwitchBot Lock Model No. W2500010                  | No |
 | Keypad Touch                         | Short for SwitchBot Lock Model No. W2500020                  | Yes |
 | Keypad Vision                | Short for SwitchBot Keypad Vision Model No. W5600003 | No |
