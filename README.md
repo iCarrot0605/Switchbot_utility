@@ -125,6 +125,7 @@ lock.unlock()
 | Floor Lamp | Short for SwitchBot RGBWW Floor Lamp Model No. W1702100 | No |
 | Strip Light 3 | Short for SwitchBot RGBWW Strip Light 3 Model No. W1702110 | No |
 | Permanent Outdoor Lights | Short for SwitchBot Permanent Outdoor Lights | Model No.W1702120 | No |
+| RGBICWW Ceiling Light | Short for SwitchBot RGBICWW Ceiling Light | Model No. W10802300 and W10802310 | No |
 | Indoor Cam | Short for SwitchBot Indoor Cam Model No. W1301200                  | No |
 | Pan/Tilt Cam | Short for SwitchBot Pan/Tilt Cam Model No. W1801200                  | No |
 | Pan/Tilt Cam 2K | Short for SwitchBot Pan/Tilt Cam 2K Model No. W3101100                  | No |
