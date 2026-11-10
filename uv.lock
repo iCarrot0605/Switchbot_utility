@@ -1441,6 +1441,10 @@ dev = [
     { name = "sphinx-rtd-theme" },
     { name = "twine" },
 ]
+test = [
+    { name = "pytest", version = "8.4.2", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.10'" },
+    { name = "pytest", version = "9.2.0", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.10'" },
+]
 
 [package.metadata]
 requires-dist = [{ name = "requests" }]
@@ -1454,6 +1458,7 @@ dev = [
     { name = "sphinx-rtd-theme", specifier = ">=2.0.0" },
     { name = "twine", specifier = ">=3.8.0" },
 ]
+test = [{ name = "pytest", specifier = ">=7.0.1" }]
 
 [[package]]
 name = "tomli"
