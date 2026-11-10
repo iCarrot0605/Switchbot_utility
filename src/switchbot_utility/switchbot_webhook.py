@@ -1,6 +1,8 @@
 import json
+import sys
 
 import requests
+from requests.exceptions import Timeout
 
 from switchbot_utility.switchbot import Switchbot
 
@@ -13,10 +15,13 @@ class SwitchbotWebhook(Switchbot):
 
     """Switchbot Webhook action"""
 
-    def http_request(self, url: str, headers: dict, data: dict):
-        return requests.post(
-            url, headers, data,
-        )
+    def http_request(self, url: str, headers: dict, data: str):
+        try:
+            return requests.post(
+                url, headers=headers, data=data, timeout=(3.0, 7.5),
+            )
+        except Timeout:
+            sys.exit("Timeout")
 
     def setup_webhook(self, url: str) -> str:
         """Setup Webhook"""
@@ -24,7 +29,7 @@ class SwitchbotWebhook(Switchbot):
         body = {"action": "setupWebhook", "deviceList": "ALL"}
         body["url"] = url
         posturl = self._baseurl + "setupWebhook"
-        response = http_request(
+        response = self.http_request(
             posturl, headers=header, data=json.dumps(body)
         )
         return response.text
@@ -34,7 +39,7 @@ class SwitchbotWebhook(Switchbot):
         header = self.gen_sign()
         body = {"action": "queryUrl"}
         posturl = self._baseurl + "queryWebhook"
-        response = http_request(
+        response = self.http_request(
             posturl, headers=header, data=json.dumps(body)
         )
         return response.text
@@ -45,7 +50,7 @@ class SwitchbotWebhook(Switchbot):
         body = {"action": "queryDetails"}
         body["urls"] = url
         posturl = self._baseurl + "queryWebhook"
-        response = http_request(
+        response = self.http_request(
             posturl, headers=header, data=json.dumps(body)
         )
         return response.text
@@ -59,7 +64,7 @@ class SwitchbotWebhook(Switchbot):
         body["config"]["url"] = url
         body["config"]["enable"] = enable
         posturl = self._baseurl + "updateWebhook"
-        response = http_request(
+        response = self.http_request(
             posturl, headers=header, data=json.dumps(body)
         )
         return response.text
@@ -70,7 +75,7 @@ class SwitchbotWebhook(Switchbot):
         body = {"action": "deleteWebhook"}
         body["url"] = url
         posturl = self._baseurl + "deleteWebhook"
-        response = http_request(
+        response = self.http_request(
             posturl, headers=header, data=json.dumps(body)
         )
         return response.text
