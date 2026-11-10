@@ -82,6 +82,7 @@ lock.unlock()
 | Hub 3                     | Short for SwitchBot Hub 3 Model No. W7202100      | No |
 | Bot                          | Short for SwitchBot Bot Model No. SwitchBot S1               | Yes |
 | Curtain                      | Short for SwitchBot Curtain Model No. W0701600               | Yes |
+| Curtain 3                    | Short for SwitchBot Curtain 3 Model No. W2400000             | No |
 | Plug                         | Short for SwitchBot Plug Model No. SP11. Currently only available in Japan | Yes |
 | Meter                        | Short for SwitchBot Thermometer and Hygrometer Model No. SwitchBot MeterTH S1 | Yes |
 | Meter Plus (JP)              | Short for SwitchBot Thermometer and Hygrometer Plus (JP) Model No. W2201500 | Yes |
@@ -124,6 +125,8 @@ lock.unlock()
 | RGBIC Neon Wire Rope Light | Short for SwitchBot RGBIC Neon Wire Rope Light Model No. W1702108 | No |
 | Floor Lamp | Short for SwitchBot RGBWW Floor Lamp Model No. W1702100 | No |
 | Strip Light 3 | Short for SwitchBot RGBWW Strip Light 3 Model No. W1702110 | No |
+| Permanent Outdoor Lights | Short for SwitchBot Permanent Outdoor Lights | Model No.W1702120 | No |
+| RGBICWW Ceiling Light | Short for SwitchBot RGBICWW Ceiling Light | Model No. W10802300 and W10802310 | No |
 | Indoor Cam | Short for SwitchBot Indoor Cam Model No. W1301200                  | No |
 | Pan/Tilt Cam | Short for SwitchBot Pan/Tilt Cam Model No. W1801200                  | No |
 | Pan/Tilt Cam 2K | Short for SwitchBot Pan/Tilt Cam 2K Model No. W3101100                  | No |

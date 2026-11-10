@@ -10,10 +10,8 @@ class SwitchbotHub3(SwitchbotHub2):
         Returns:
             bool: True if motion is detected, False otherwise
         """
-        self._body["command"] = "getMoveDetect"
-        self._body["parameter"] = "default"
-        result = self.command(self.deviceId, self._body)
-        return result.text
+        status = self.get_status()
+        return status["moveDetected"]
 
     def get_onlineStatus(self) -> str:
         """the connection status of the device.
@@ -21,7 +19,5 @@ class SwitchbotHub3(SwitchbotHub2):
         Returns:
             online or offline
         """
-        self._body["command"] = "getOnlineStatus"
-        self._body["parameter"] = "default"
-        result = self.command(self.deviceId, self._body)
-        return result.text
+        status = self.get_status()
+        return status["onlineStatus"]

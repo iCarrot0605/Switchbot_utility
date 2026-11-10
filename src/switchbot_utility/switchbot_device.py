@@ -11,7 +11,6 @@ from switchbot_utility.switchbot import Switchbot
 class SwitchbotDevice(Switchbot, CommandMixin):
     """Switchbot device class"""
 
-    _body = {"commandType": "command", "parameter": "default"}
     _baseurl = "https://api.switch-bot.com/v1.1/devices/"
 
     def __init__(self, deviceId):

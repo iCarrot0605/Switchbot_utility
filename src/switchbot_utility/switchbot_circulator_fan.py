@@ -23,7 +23,7 @@ class SwitchbotCirculatorFan(SwitchbotDevice, OnOffMixin):
         status = self.get_status()
         return status["mode"]
 
-    def get_nightStatus(self) -> str:
+    def get_night_status(self) -> str:
         """Get nightlight status
 
         Returns:
@@ -41,7 +41,7 @@ class SwitchbotCirculatorFan(SwitchbotDevice, OnOffMixin):
         status = self.get_status()
         return status["oscillation"]
 
-    def get_verticalOscillation(self) -> str:
+    def get_vertical_oscillation(self) -> str:
         """Get vertical oscillation
 
         Returns:
@@ -59,7 +59,7 @@ class SwitchbotCirculatorFan(SwitchbotDevice, OnOffMixin):
         status = self.get_status()
         return status["fanSpeed"]
 
-    def set_NightLightMode(self, mode: str) -> str:
+    def set_night_light_mode(self, mode: str) -> str:
         """Set mode
 
         Args:
