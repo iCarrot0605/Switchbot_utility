@@ -82,6 +82,7 @@ lock.unlock()
 | Hub 3                     | Short for SwitchBot Hub 3 Model No. W7202100      | No |
 | Bot                          | Short for SwitchBot Bot Model No. SwitchBot S1               | Yes |
 | Curtain                      | Short for SwitchBot Curtain Model No. W0701600               | Yes |
+| Curtain 3                    | Short for SwitchBot Curtain 3 Model No. W2400000             | No |
 | Plug                         | Short for SwitchBot Plug Model No. SP11. Currently only available in Japan | Yes |
 | Meter                        | Short for SwitchBot Thermometer and Hygrometer Model No. SwitchBot MeterTH S1 | Yes |
 | Meter Plus (JP)              | Short for SwitchBot Thermometer and Hygrometer Plus (JP) Model No. W2201500 | Yes |
