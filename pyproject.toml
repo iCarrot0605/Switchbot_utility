@@ -43,4 +43,9 @@ dev = [
     "sphinx>=5.3.0",
     "sphinx-multiversion>=0.2.4",
     "sphinx-rtd-theme>=2.0.0",
+    "pytest>=7.0.1",
 ]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["tests"]
